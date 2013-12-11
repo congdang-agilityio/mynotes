@@ -1,3 +1,4 @@
 mynotes
 =======
-`` Duy Phan Edit here
+This is my project.
+``Duy Phan Edit here
